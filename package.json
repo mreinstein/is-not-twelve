@@ -1,0 +1,24 @@
+{
+  "name": "is-not-twelve",
+  "version": "1.0.0",
+  "description": "sure, why not.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mreinstein/is-not-twelve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mreinstein/is-not-twelve/issues"
+  },
+  "homepage": "https://github.com/mreinstein/is-not-twelve#readme",
+  "dependencies": {
+    "is-twelve": "^1.0.1"
+  }
+}
