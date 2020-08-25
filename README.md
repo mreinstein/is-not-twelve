@@ -1,7 +1,6 @@
 # is-not-twelve
 
-sure, why not.
-
+Important alternative to is-twelve
 
 ## Install
 ```bash
